@@ -12,9 +12,6 @@ FitLife is a comprehensive fitness blogging website designed to help users trans
 ---
 
 ##  Folder Structure
-
-```
-
 bloging-website-frontend/
 ├── app/
 │   ├── components/
@@ -32,8 +29,7 @@ bloging-website-frontend/
 ├── package.json
 └── README.md
 
-````
-
+```
 ---
 
 ##  Features
